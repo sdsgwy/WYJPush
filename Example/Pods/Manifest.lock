@@ -1,0 +1,14 @@
+PODS:
+  - WYJPush (0.1.0)
+
+DEPENDENCIES:
+  - WYJPush (from `../`)
+
+EXTERNAL SOURCES:
+  WYJPush:
+    :path: ../
+
+SPEC CHECKSUMS:
+  WYJPush: 21c7f0d952c5d429cd1f3e2950d52f39f9b0ed82
+
+COCOAPODS: 0.38.2

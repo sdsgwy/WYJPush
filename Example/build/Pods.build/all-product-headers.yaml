@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Projects/univalsoft/Projects/WYJPush/Example/build/Debug-iphoneos/WYJPush.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "WYJPush-Swift.h",
+          'external-contents': "/Projects/univalsoft/Projects/WYJPush/Example/build/Debug-iphoneos/WYJPush.framework/Headers/WYJPush-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "WYJPush-umbrella.h",
+          'external-contents': "/Projects/univalsoft/Projects/WYJPush/Example/Pods/Target Support Files/WYJPush/WYJPush-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Projects/univalsoft/Projects/WYJPush/Example/build/Debug-iphoneos/WYJPush.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Projects/univalsoft/Projects/WYJPush/Example/build/Pods.build/Debug-iphoneos/WYJPush.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
